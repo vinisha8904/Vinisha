@@ -3,7 +3,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk, ImageDraw, ImageFilter
 import numpy as np
-
 class FaceDetectionApp:
     def __init(self, root):
         self.root = root
